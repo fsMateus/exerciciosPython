@@ -1,0 +1,6 @@
+1 anderson 1188MB 46.01%
+2 rosemary 753MB 29.16%
+3 alexandre 435MB 16.85%
+4 antonio 118MB 4.57%
+Consumo Total: 2582
+Consumo Medio: 430.33
